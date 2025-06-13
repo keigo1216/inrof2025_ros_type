@@ -26,6 +26,8 @@ endif()
 
 set(srv_files
   "srv/GenRoute.srv"
+  "srv/Vacume.srv"
+  "srv/BallPose.srv"
 )
 set(action_files
   "action/Follow.action"
