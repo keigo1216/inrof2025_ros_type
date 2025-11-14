@@ -28,6 +28,8 @@ set(srv_files
   "srv/GenRoute.srv"
   "srv/Vacume.srv"
   "srv/BallPose.srv"
+  "srv/Pose.srv"
+  "srv/BallPath.srv"
 )
 set(action_files
   "action/Follow.action"
