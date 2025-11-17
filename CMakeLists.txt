@@ -30,6 +30,7 @@ set(srv_files
   "srv/BallPose.srv"
   "srv/Pose.srv"
   "srv/BallPath.srv"
+  "srv/BallColor.srv"
 )
 set(action_files
   "action/Follow.action"
